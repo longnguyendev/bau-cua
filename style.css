@@ -13,6 +13,7 @@ body {
   overflow: hidden;
 }
 .box {
+  float: right;
   position: relative;
   width: 500px;
   height: 500px;
