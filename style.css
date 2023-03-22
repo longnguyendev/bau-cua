@@ -14,8 +14,8 @@ body {
 }
 .box {
   position: relative;
-  width: 600px;
-  height: 600px;
+  width: 500px;
+  height: 500px;
   border-radius: 50%;
   background-color: rgb(171, 50, 50);
 }
