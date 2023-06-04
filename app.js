@@ -9,7 +9,7 @@ const op3 = document.querySelector("#op3");
 op1.addEventListener("click", open);
 
 function open() {
-  fillter.style.transform = "translateY(-150%)";
+  fillter.style.transform = "translateY(-200%)";
   fillter.style.transition = "ease-in-out 0.5s";
 }
 
